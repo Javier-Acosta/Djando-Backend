@@ -11,6 +11,3 @@ def about (request):
 def contact (request):
 
     return render(request,"core/contacto.html")
-def porfolio (request):
-
-    return render(request,"core/porfolio.html") 
